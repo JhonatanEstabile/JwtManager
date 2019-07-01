@@ -3,7 +3,7 @@
 use \Mockery;
 use JwtManager\JwtManager;
 
-class JwtManagerTest extends PHPUnit_Framework_TestCase
+class JwtManagerTest extends PHPUnit\Framework\TestCase
 {
     private $appSecret = 'DyONazNKD35e3TfpcOJGHewtjxPGkjSh';
     private $context = 'test';

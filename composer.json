@@ -1,7 +1,7 @@
 {
     "name": "jhonatanestabile/jwtmanager-php",
     "description": "PHP library to manage jwt authentication",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "type": "library",
     "authors": [
         {
